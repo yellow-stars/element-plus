@@ -1,5 +1,5 @@
 <template>
-  <el-text class="w-150px mb-2" truncated>
+  <el-text style="width:100px;" truncated>
     Self element set width 100px
   </el-text>
   <el-row class="w-150px mb-2">
